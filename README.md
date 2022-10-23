@@ -32,7 +32,7 @@ Here are the preview example of 3 Column preview card:
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/profile/nuzulazmi/solutions)
+- Solution URL: (https://www.frontendmentor.io/solutions/responsive-3-column-preview-card-using-css-grid-flexbox-media-querie-BAunzYk7Cb)
 - Live Site URL: (https://nuzulazmi.github.io/3-column-preview-card/)
 
 ## My process
